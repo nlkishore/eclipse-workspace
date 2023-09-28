@@ -1,0 +1,5 @@
+package com.example.JDBC_with_Spring.Models;
+
+public class ProductDAO {
+
+}

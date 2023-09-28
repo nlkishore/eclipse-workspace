@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ProductRowMapper.java&apos; to &apos;JDBC-with-Spring/src/main/java/com.example.JDBC_with_Spring.Models&apos;&#x0D;&#x0A;- Original project: &apos;Spring-DBC&apos;&#x0D;&#x0A;- Destination element: &apos;JDBC-with-Spring/src/main/java/com.example.JDBC_with_Spring.Models&apos;&#x0D;&#x0A;- Original element: &apos;org.example.ProductRowMapper.java&apos;" description="Copy compilation unit" destination="=JDBC-with-Spring/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.JDBC_with_Spring.Models" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;org.example{ProductRowMapper.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1695797591730" units="1" version="1.0"/>
+</session>

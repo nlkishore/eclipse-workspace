@@ -1,0 +1,5 @@
+package SpringDemo.SpringDemo.config;
+
+public class AppConfig {
+
+}

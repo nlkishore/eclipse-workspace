@@ -1,0 +1,8 @@
+package com.example.JDBC_with_Spring.config;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class AppConfig {
+
+}

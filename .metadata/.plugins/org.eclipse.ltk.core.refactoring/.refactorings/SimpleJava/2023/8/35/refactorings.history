@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;JavaBasic.java&apos; to &apos;SimplaJava/src/com.citi&apos;&#x0D;&#x0A;- Original project: &apos;SimplaJava&apos;&#x0D;&#x0A;- Destination element: &apos;SimplaJava/src/com.citi&apos;&#x0D;&#x0A;- Original element: &apos;JavaBasic.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;com.citi" element1="/src&lt;{JavaBasic.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1693523323220" units="1" version="1.0"/>
+</session>

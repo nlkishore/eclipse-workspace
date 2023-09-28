@@ -1,0 +1,5 @@
+package com.example.JDBC_with_Spring.config;
+
+public class AppConfig {
+
+}

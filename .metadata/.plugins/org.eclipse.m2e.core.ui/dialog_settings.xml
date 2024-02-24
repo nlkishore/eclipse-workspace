@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\nlaxm\IdeaProjects\Hibernate"/>
 			<item value="C:\Users\nlaxm\IdeaProjects\AnnotationDI"/>
 			<item value="C:\Users\nlaxm\eclipse-workspace\SpringDemo-v1"/>
 			<item value="C:\Users\nlaxm\eclipse-workspace\Spring_MVC_CRUD_DEMO"/>
@@ -50,10 +51,12 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.example"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="demo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

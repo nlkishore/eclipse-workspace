@@ -10333,3 +10333,37 @@ java.lang.IllegalStateException: Disconnected before saving. Please post stacktr
 		at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4072)
 		at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3660)
 		... 21 more
+
+!ENTRY org.eclipse.egit.core 4 0 2024-11-24 18:54:06.956
+!MESSAGE An exception occurred during push on URI https://github.com/nlkishore/eclipse-workspace.git: https://github.com/nlkishore/eclipse-workspace.git: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/nlkishore/eclipse-workspace.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:696)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:638)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:541)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:138)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1537)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:269)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2024-11-24 18:54:06.957
+!MESSAGE Can't connect to any repository: https://github.com/nlkishore/eclipse-workspace.git (https://github.com/nlkishore/eclipse-workspace.git: not authorized)
+
+!ENTRY org.eclipse.egit.core 4 0 2024-11-24 19:00:59.301
+!MESSAGE An exception occurred during push on URI https://github.com/nlkishore/eclipse-workspace.git: https://github.com/nlkishore/eclipse-workspace.git: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/nlkishore/eclipse-workspace.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:696)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:638)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:541)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:138)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1537)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:269)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2024-11-24 19:00:59.302
+!MESSAGE Can't connect to any repository: https://github.com/nlkishore/eclipse-workspace.git (https://github.com/nlkishore/eclipse-workspace.git: not authorized)

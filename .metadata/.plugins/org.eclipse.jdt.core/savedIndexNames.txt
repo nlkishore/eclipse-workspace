@@ -126,7 +126,6 @@ INDEX VERSION 1.134+C:\Users\nlaxm\eclipse-workspace\.metadata\.plugins\org.ecli
 2279484303.index
 2885174972.index
 2025808240.index
-3436064790.index
 3464936847.index
 3414264702.index
 4268354284.index

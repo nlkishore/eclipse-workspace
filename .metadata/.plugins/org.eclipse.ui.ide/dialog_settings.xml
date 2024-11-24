@@ -11,7 +11,14 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\nlaxm\new-eclipse-workspace"/>
+			<item value="C:\Users\nlaxm\Documents\Java-Examples"/>
+			<item value="C:\Users\nlaxm\myturbineapp"/>
 			<item value="C:\Users\nlaxm\eclipse-workspace\SimpleJava\src\com\citi"/>
 		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="534"/>
+		<item key="DIALOG_Y_ORIGIN" value="263"/>
 	</section>
 </section>

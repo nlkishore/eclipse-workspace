@@ -26,4 +26,7 @@
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="org.apache.torque.util.Criteria"/>
+    <fullyQualifiedTypeName name="org.apache.torque.criteria.Criteria"/>
 </qualifiedTypeNameHistroy>

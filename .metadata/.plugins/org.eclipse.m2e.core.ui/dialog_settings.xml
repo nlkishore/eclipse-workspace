@@ -98,6 +98,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\nlaxm\Downloads\torque-4.0-source-release\torque-4.0"/>
 			<item value="C:\SpringBoot-withBatch\Spring-Boot-Examples\spring-boot-batch"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -107,6 +108,23 @@
 			<item value="[groupId].[artifactId]"/>
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="MockingTurbineFW"/>
+			<item value="SimpleJava"/>
+			<item value="JunitTestCaseGenerator"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="MockingTurbineFW"/>
+			<item value="SimpleJava"/>
+			<item value="JunitTestCaseGenerator"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
 		</list>
 	</section>
 </section>

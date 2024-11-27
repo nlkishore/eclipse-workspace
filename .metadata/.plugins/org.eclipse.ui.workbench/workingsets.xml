@@ -2,6 +2,16 @@
 <workingSetManager>
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1693519700084_0" label="Java Main Sources" name="Java Main Sources"/>
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1693519700100_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1732634398385_5" label="torque" name="torque">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/torque" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/torque-runtime" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/torque-generator" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/torque-templates" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/torque-maven-plugin" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/torque-ant-tasks" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/torque-site" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/torque-test" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1693519705393_2" label="Window Working Set" name="Aggregate for window 1693519705393"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1694677908727_3" label="Window Working Set" name="Aggregate for window 1694677908727"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1694681489398_4" label="Window Working Set" name="Aggregate for window 1694681489398"/>
